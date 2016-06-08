@@ -3,6 +3,21 @@
     <string name="action_settings">Settings</string>
     <string name="action_refresh">Refresh</string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">Settings</string>
     <string name="hello_world">Hello World!</string>
-    <string name="api_key">Enter your API Key Here...</string>
+    <string name="api_key">Enter API key here..</string>
+
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">94043</string>
+
+    <string name="pref_temp_label">Temperature Units</string>
+    <string name="pref_temp_key" translatable="false">units</string>
+    <string name="pref_temp_default" translatable="false">Metric</string>
+
+    <string name="pref_temp_imperial">Imperial</string>
+    <string name="pref_temp_metric">Metric</string>
+
+    <string name="pref_temp_imperial_value">imperial</string>
+    <string name="pref_temp_metric_value">metric</string>
 </resources>
